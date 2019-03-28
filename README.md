@@ -37,3 +37,6 @@
 
 
 ...more will be added soon. 
+
+## Books: 
+1. Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems (Computational Neuroscience Series) by Chris Eliasmith & Charles Anderson
