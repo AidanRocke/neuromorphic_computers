@@ -12,6 +12,7 @@
 4. http://avlsi.csl.yale.edu/bio.php
 5. [Neuromorphic Cognitive Robots](https://www.ini.uzh.ch/en/research/groups/NCR.html)
 6. [Neuromorphic Cognitive Systems](https://www.ini.uzh.ch/en/research/groups/ncs.html)
+7. [Eliasmith Research Group](http://compneuro.uwaterloo.ca/index.html)
 
 ## Researchers:
 1. [Kwabena Boahen, Stanford](https://web.stanford.edu/group/brainsinsilicon/boahen.html)
