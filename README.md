@@ -14,6 +14,11 @@
 6. [Neuromorphic Cognitive Systems](https://www.ini.uzh.ch/en/research/groups/ncs.html)
 7. [Eliasmith Research Group](http://compneuro.uwaterloo.ca/index.html)
 
+## Projects:
+1. [BrainScaleS](https://brainscales.kip.uni-heidelberg.de/)
+2. [Nengo](https://www.nengo.ai/)
+3. [Spinnaker](http://apt.cs.manchester.ac.uk/projects/SpiNNaker/)
+
 ## Researchers:
 1. [Kwabena Boahen, Stanford](https://web.stanford.edu/group/brainsinsilicon/boahen.html)
 2. [Giacomo Indiveri, ETH](http://ncs.ethz.ch/)
