@@ -5,6 +5,11 @@
 2. Neuromorphic computers promise to significantly reduce the expected carbon footprint of AI technology.
 3. This is closely related to my interest in the [thermodynamics of computation](https://github.com/Kepler-Lounge/thermodynamics_of_computation). 
 
+## Basics:
+1. Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems (Computational Neuroscience Series) by Chris Eliasmith & Charles Anderson
+2. [Neuronal Dynamics(online book)](https://neuronaldynamics.epfl.ch/online/index.html)
+3. [Human Brain Project lectures](https://www.youtube.com/watch?v=GL9nUo7lKec&feature=youtu.be)
+
 ## Research labs: 
 1. [Electronic Visions](http://www.kip.uni-heidelberg.de/vision/)
 2. [Human Brain Project](https://www.humanbrainproject.eu/en/silicon-brains/)
@@ -37,6 +42,3 @@
 
 
 ...more will be added soon. 
-
-## Books: 
-1. Neural Engineering: Computation, Representation, and Dynamics in Neurobiological Systems (Computational Neuroscience Series) by Chris Eliasmith & Charles Anderson
