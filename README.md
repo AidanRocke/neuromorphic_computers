@@ -2,7 +2,8 @@
 
 ## Motivation: 
 1. Is there a better test of neuroscience theory than to physically build a brain?
-2. Neuromorphic computers promise to significantly reduce the expected carbon footprint of AI technology. 
+2. Neuromorphic computers promise to significantly reduce the expected carbon footprint of AI technology.
+3. This is closely related to my interest in the [thermodynamics of computation](https://github.com/Kepler-Lounge/thermodynamics_of_computation). 
 
 ## Research labs: 
 1. [Electronic Visions](http://www.kip.uni-heidelberg.de/vision/)
